@@ -3,7 +3,7 @@
 - 还在担心流量不够用吗，本阅读器缓存(下载)离线阅读功能帮你轻松解决问题。通过wifi缓存(下载)全本书后，在无网络的时候从书架进入阅读，点击离线模式即可
 - 查看详情
 - https://github.com/SemperChen/tianxiashuge/blob/master/README.md
-- true
+- false
 - 5000
 - false
 - ca-app-pub-4533308396777454/5937435545
@@ -12,6 +12,6 @@
 - ca-app-pub-3033436894115697/1355812882
 - ca-app-pub-3033436894115697/4015601988
 - ca-app-pub-4533308396777454/8755170575
-- true
-- true
+- false
+- false
 ---
