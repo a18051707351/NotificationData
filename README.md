@@ -5,13 +5,13 @@
 - https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
 - true
 - 5000
-- true
+- false
 - ca-app-pub-4533308396777454/5937435545
 - ca-app-pub-4533308396777454/6327429739
 - ca-app-pub-4533308396777454/8755170575
 - ca-app-pub-3033436894115697/1355812882
 - ca-app-pub-3033436894115697/4015601988
 - ca-app-pub-4533308396777454/8755170575
-- false
+- true
 - false
 ---
