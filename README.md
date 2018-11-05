@@ -1,8 +1,8 @@
 - 新版本2.1.2更新提示
-- 2018-8-2 11:21
-- 新版本发布啦，响应速度比以前更快50%，左右手翻页更便利，支持云书架，但由于文件丢失，只能卸载旧版才能安装
+- 2018-11-5 11:21
+- 新版本发布啦。已升级到React Native0.57.4版本，并改进左右翻页功能
 - 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
+- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/txsg.apk
 - true
 - 5000
 - false
