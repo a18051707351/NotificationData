@@ -1,8 +1,8 @@
-- 新版本2.1.2更新提示
+- 提示
 - 2018-11-5 11:21
-- 新版本发布啦。已升级到React Native0.57.4版本，并改进左右翻页功能
-- 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/txsg.apk
+- 无
+- 无
+- https://raw.githubusercontent.com
 - true
 - 5000
 - false
@@ -14,5 +14,5 @@
 - ca-app-pub-4533308396777454/8755170575
 - false
 - false
-- 24.a6bf4b9f4febfbec9860ab40326f9df5.2592000.1551663520.282335-14809359
+- 24.4df3cf3ec2e7eed0e39daaf14f9d739e.2592000.1558659889.282335-14809359
 ---
